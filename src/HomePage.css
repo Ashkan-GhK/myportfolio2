@@ -1,0 +1,17 @@
+.homepage {
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+    flex-direction: column;
+    font-size: 3rem;
+
+}
+
+.homepage__text__holder{
+    display: flex;
+}
+
+.homepage___text {
+    display: flex;
+}
